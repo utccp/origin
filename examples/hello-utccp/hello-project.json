@@ -1,0 +1,17 @@
+{
+  "kind": "Project",
+  "apiVersion": "project.openshift.io/v1",
+  "metadata": {
+    "name": "hello-utccp-project",
+    "creationTimestamp": null,
+    "labels": {
+      "name": "hello-utccp-project"
+    },
+    "annotations": {
+      "openshift.io/description": "This is an example project to demonstrate Uccp v3",
+      "openshift.io/display-name": "Hello Uccp"
+    }
+  },
+  "spec": {},
+  "status": {}
+}
